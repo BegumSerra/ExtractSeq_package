@@ -1,7 +1,7 @@
 # ExtractSeq_package
 A python package developed by Begüm Serra in Advanced Scientific Programming in Python - Uppsala University
 
-ExtractSeq package extracts protein sequences from blast or diamond files it needs to be feeded by proteome file. It can produce two types of sequence files: One sequence file with annotation and the other one is with only ids. You can find the install link below.
+ExtractSeq package extracts protein sequences from blast or diamond files. It needs to be feeded by a proteome file. It can produce two types of sequence files in fasta format: One with annotation and the other one with only ids. You can find the install link below.
 
 ## Dependencies: 
 * pandas=1.3.4
